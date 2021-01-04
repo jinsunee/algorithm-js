@@ -23,7 +23,7 @@ export default class Comparator {
    * @param {*} b
    * @return {boolean}
    */
-  equal(a, b) {
+  equals(a, b) {
     return this.compare(a, b) === 0;
   }
 
