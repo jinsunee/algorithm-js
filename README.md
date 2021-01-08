@@ -2,6 +2,8 @@
 
 ## Data Structure
 
+- [링크드리스트](src/data-structures/linked-list)
+
 ## Algorithms
 
 ### 패러다임별 알고리즘
