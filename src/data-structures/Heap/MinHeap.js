@@ -14,8 +14,6 @@ class MinHeap extends Heap {
   add(item) {
     this.items.push(item);
     this.bubbleUp();
-
-    return this.print();
   }
   
   // poll: root값을 뺀 후, 위로 올려가면서 아래로 정렬해나가기. 그리고 마지막에 처음에 빼둔 root 값 return.

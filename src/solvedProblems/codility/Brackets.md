@@ -1,6 +1,6 @@
 # Brackets
 
-https://app.codility.com/programmers/lessons/6-sorting/distinct/
+https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/
 
 66%
 
